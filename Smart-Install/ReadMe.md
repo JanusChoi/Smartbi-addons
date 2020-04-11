@@ -16,10 +16,13 @@ Auto installation shell scripts for installing Smartbi to Linux
 ## Usage
 
 with all install packages in one place like /home/januschoi run
+
 ```
 ./run1.sh
 ```
+
 or
+
 ```
 sh ./run1.sh
 ```
